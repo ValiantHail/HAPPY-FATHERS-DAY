@@ -1,0 +1,27 @@
+
+section {
+    text-align: center;
+    background-color: yellow
+}
+
+#Dad's-name {
+    text-align: center;
+}
+body {
+    background-color: firebrick;
+}
+center {
+    background-color: firebrick;
+}
+
+h {
+    font-size: 25px;
+    font-family: fantasy;
+    color: aliceblue
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: yellow;
+}
